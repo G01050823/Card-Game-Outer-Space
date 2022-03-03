@@ -2,4 +2,10 @@ git Card_Game_Outer_Space
 git rules_instructions
 git cards_for_when_staring_game_for_playing_a_game
 git assort_cards_in_right_order
-git
+git set_cards
+git assign_rules_to_player_on_how_to_play
+git enable_card_items_during_battle
+git code_space_items
+git code_enemy_items
+git code_cards
+git end_card_items_last_man_standing_win_the_game
