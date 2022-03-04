@@ -8,4 +8,10 @@ git enable_card_items_during_battle
 git code_space_items
 git code_enemy_items
 git code_cards
+git begin_card_warfare
+git enjoy_dueling_with_cards
+git wait_until_battle_set
+git enslave_cards_against_other_player_to_modern_warfare
+git wait_for_another_player_to_commence_strike
+git force_player_to_surrender_when_ready_to_throw_the_losing_streak
 git end_card_items_last_man_standing_win_the_game
